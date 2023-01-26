@@ -3,7 +3,7 @@
 /**
  * @file: text-tab.php
  * @author: Osvaldo Alves
- * @date: 26/01/2022
+ * @date: 26/01/2023
  * @description: Study of text manipulation witch commands bash and php.
  * @use: Run this script with command:> php text-tab.php.
  *
