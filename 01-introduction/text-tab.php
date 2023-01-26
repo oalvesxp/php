@@ -1,11 +1,11 @@
 <?php
 
 /**
- * @file: model.php
+ * @file: text-tab.php
  * @author: Osvaldo Alves
  * @date: 26/01/2022
- * @description: ...
- * @use: Tutorial how to use.
+ * @description: Study of text manipulation witch commands bash and php.
+ * @use: Run this script with command:> php text-tab.php.
  *
  * More informations.
  	*
