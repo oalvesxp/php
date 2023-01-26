@@ -30,7 +30,6 @@ function startExec(){
  * Calculate end time of the script, execution time and return results.
  *
  */
-
 function endExec(){
 	global $time;
 	$finalTime = getTime();
