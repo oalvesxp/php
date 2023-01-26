@@ -13,5 +13,30 @@
  *
  */
 
+global $time;
+
+/* Get current time */
+function getTime(){
+	return microtime(TRUE);
+}
+
+/* Calculate start time */
+function startExec(){
+	global $time;
+	$time = getTime();
+}
+
+/**
+ * Calculate end time of the script, execution time and return results.
+ *
+ */
+
+function endExec(){
+	global $time;
+	$finalTime = getTime();
+	$execTime = $finalTime - $time;
+	return number_format($execTime, 6) . 's';
+}
+
 ?>
 
