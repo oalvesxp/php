@@ -15,6 +15,9 @@
 
 $age = 25;
 
-echo 'Minha idade atual é ' . $age . ' anos!';
+/*echo 'Minha idade atual é ' . $age . ' anos!';*/
+
+echo "Minha idade é: $age anos! \nQuantos anos você tem?\n";
+echo "Quebra de linha com o comando end of line " . PHP_EOL;
 
 ?>
