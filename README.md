@@ -2,7 +2,7 @@
 PHP study material
 > Info do projeto: Materiais de estudo dos cursos da Alura...
 
-Para usar estes arquivos, você necessida te ter o php-cli instalado na versão 7.4.33
+Para usar estes arquivos, você necessida te ter o php-cli instalado na versão >= 5
 
 ```
 sudo apt update 
