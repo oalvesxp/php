@@ -17,6 +17,9 @@ php <nome-do-arquivo>.php
 ```
 </br>
 <hr>
+<h3> Basics </h3>
+- Scripts básicos que são ideiais para iniciar o aprendizado em PHP.</br>
+
 <h3> Aula01 </h3>
 - Criando um modelo de documentação dos arquivos .php.</br>
 - Manipulando textos com comandos PHP.</br>
