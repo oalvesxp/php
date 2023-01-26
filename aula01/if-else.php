@@ -16,4 +16,10 @@
  *
  */
 
+$age = 18;
+$people = 2;
+
+echo "Você só pode entrar sozinho se tiver \"18\" anos ou mais." . PHP_EOL;
+echo "Você também pode entrar se tiver \"16\" anos ou mais e estiver acompanhado de um adulto." . PHP_EOL;
+
 ?>
