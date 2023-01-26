@@ -19,5 +19,5 @@ $age = 25;
 
 echo "Minha idade é: $age anos! \nQuantos anos você tem?\n";
 echo "Quebra de linha com o comando end of line " . PHP_EOL;
-echo "Montrando a idade entre \"$age\" aspas" . PHP_EOL;
+echo "Montrando a idade \"$age\" entre aspas" . PHP_EOL;
 ?>
