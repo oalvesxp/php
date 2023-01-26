@@ -15,3 +15,10 @@ Para rodar os scripts php utilize o comando:
 ```
 php <nome-do-arquivo>.php
 ```
+</br>
+<hr>
+<h3> Aula01 </h3>
+- Criando um modelo de documentação dos arquivos .php.</br>
+- Manipulando textos com comandos PHP.</br>
+- Variáveis e condicionamento com if e esle.</br>
+- usando looping com condições if e else.</br>
