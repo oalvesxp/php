@@ -15,6 +15,9 @@
  *
  */
 
+include 'check-time.php';
+startExec();
+
 for ($i = 1; $i <= 15; $i++) {
 	if($i ==7) {
 		continue;
@@ -24,5 +27,7 @@ for ($i = 1; $i <= 15; $i++) {
 }
 
 	echo "$i" . PHP_EOL;
+
+echo endExec() . PHP_EOL;
 
 ?>
